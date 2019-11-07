@@ -1,0 +1,13 @@
+[postgresql1]
+host= ******
+user=******
+password=******
+port=******
+database=******
+
+[postgresql2]
+host=******
+user=******
+password=******
+port=******
+database=******
