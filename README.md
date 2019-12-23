@@ -1,7 +1,7 @@
 # PyFuncs4PostgreSQL
 Some python functions to work with PostgreSQL Database
 
-> Contributors: AndrewPham9
+> Contributors: <a href="https://github.com/AndrewPham9">@AndrewPham9</a>
 
 ## To use
 
